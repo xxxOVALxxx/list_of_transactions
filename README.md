@@ -3,6 +3,8 @@
 This is a simple Flutter application to track bank transactions
 
 ## Getting Started
+Supported platforms: Android
+
 Get dependencies
 ```bash
 flutter pub get
@@ -11,6 +13,13 @@ flutter pub get
 | Login       | Pasword |
 | ----------- | --------|
 | user        | user    |
+
+This project uses:
+
+- GoRouter for routing and navigation
+- Flutter BLoC for state management  
+- FlChart for charts and graphs
+- Hive and Hive Flutter for local data storage
 
 ## Screenshots
 ![Screenshot](screenshots/login.jpg)
