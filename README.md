@@ -13,7 +13,7 @@ flutter pub get
 | User        | User    |
 
 ## Screenshots
-![Screenshot](login.jpg)
-![Screenshot](transactions.jpg)
-![Screenshot](transaction_info.jpg)
-![Screenshot](donut.jpg)
+![Screenshot](screenshots/login.jpg)
+![Screenshot](screenshots/transactions.jpg)
+![Screenshot](screenshots/transaction_info.jpg)
+![Screenshot](screenshots/donut.jpg)
