@@ -10,7 +10,7 @@ flutter pub get
 ## Test users
 | Login       | Pasword |
 | ----------- | --------|
-| User        | User    |
+| user        | user    |
 
 ## Screenshots
 ![Screenshot](screenshots/login.jpg)
